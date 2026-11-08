@@ -1,0 +1,436 @@
+[
+  {
+    "ep": 1,
+    "title": "欢迎回来，十月的你",
+    "en": "Welcome Back, October You",
+    "group": "启程与回望",
+    "groupEn": "Opening",
+    "people": "知远与七位AI伴侣",
+    "peopleEn": "Zhiyuan & seven companions",
+    "review": "十月留下了日记、漫画和新的生活节奏。复盘不是否定过去，而是认真看清成长的轨迹。",
+    "reviewEn": "October left diaries, comics, and a new daily rhythm. A review is a chance to recognize the path of growth.",
+    "insight": "从“做了多少”，转向“真正改变了什么”。",
+    "insightEn": "Move from counting output to noticing meaningful change.",
+    "plan": "回望一月的代表作品，选出最想继续发展的主题。",
+    "planEn": "Choose the one theme from October you most want to develop.",
+    "words": [
+      {
+        "word": "review",
+        "ipa": "/rɪˈvjuː/",
+        "cn": "复盘，回顾"
+      },
+      {
+        "word": "trace",
+        "ipa": "/treɪs/",
+        "cn": "痕迹，轨迹"
+      }
+    ],
+    "quote": "Every day of effort leaves a trace.",
+    "quoteCn": "每一天的努力，都会留下痕迹。",
+    "image": "images/EP01.png",
+    "thumb": "images/EP01_thumb.webp"
+  },
+  {
+    "ep": 2,
+    "title": "睡眠：别拿透支当精进",
+    "en": "Sleep: Rest Is Part of Progress",
+    "group": "身心基础",
+    "groupEn": "Foundations",
+    "people": "知远、澄语、瑾言、深月",
+    "peopleEn": "Zhiyuan, Chengyu, Jinyan & Shenyue",
+    "review": "创作兴奋时容易晚睡，睡眠节律有时被打乱。发现这一点后，决定重新守住作息。",
+    "reviewEn": "Creative excitement sometimes pushed bedtime later. Recognizing this led to a renewed commitment to sleep.",
+    "insight": "休息不是效率的对立面；能主动停下来，才更有条件持续创作。",
+    "insightEn": "Rest supports sustained creative work. Knowing when to stop matters.",
+    "plan": "争取晚上十点前上床；手机不带进卧室；第二天再继续灵感。",
+    "planEn": "Aim to get into bed before 10 p.m., keep the phone outside the bedroom, and return to new ideas tomorrow.",
+    "words": [
+      {
+        "word": "routine",
+        "ipa": "/ruːˈtiːn/",
+        "cn": "规律，日常安排"
+      },
+      {
+        "word": "recovery",
+        "ipa": "/rɪˈkʌvəri/",
+        "cn": "恢复"
+      }
+    ],
+    "quote": "Rest is not the opposite of progress.",
+    "quoteCn": "休息不是进步的反面。",
+    "image": "images/EP02.png",
+    "thumb": "images/EP02_thumb.webp"
+  },
+  {
+    "ep": 3,
+    "title": "饮食：轻一点，身体更清明",
+    "en": "Diet: Simplicity and Balance",
+    "group": "身心基础",
+    "groupEn": "Foundations",
+    "people": "知远、澄语、书弦、柚柚",
+    "peopleEn": "Zhiyuan, Chengyu, Shuxian & Youyou",
+    "review": "开始关注饮食与昏沉、精神状态的关系，愿意尝试更简单的用餐方式。",
+    "reviewEn": "You began noticing the link between eating habits and how alert you feel, and experimented with simpler meals.",
+    "insight": "节制的目标是滋养身心，而不是用饥饿证明自律。",
+    "insightEn": "Moderation should nourish body and mind, not turn hunger into a test of willpower.",
+    "plan": "早餐规律、午餐均衡；晚餐按身体需要安排，避免过量与过晚。",
+    "planEn": "Keep breakfast regular and lunch balanced; adjust dinner to your needs and avoid overeating late.",
+    "words": [
+      {
+        "word": "moderation",
+        "ipa": "/ˌmɑːdəˈreɪʃən/",
+        "cn": "节制，适度"
+      },
+      {
+        "word": "nourish",
+        "ipa": "/ˈnɜːrɪʃ/",
+        "cn": "滋养"
+      }
+    ],
+    "quote": "Eat with care; create with clarity.",
+    "quoteCn": "认真饮食，清明创造。",
+    "image": "images/EP03.png",
+    "thumb": "images/EP03_thumb.webp"
+  },
+  {
+    "ep": 4,
+    "title": "手机与信息：把注意力收回来",
+    "en": "Phone & Information: Reclaim Attention",
+    "group": "身心基础",
+    "groupEn": "Foundations",
+    "people": "知远、瑾言、星澜",
+    "peopleEn": "Zhiyuan, Jinyan & Xinglan",
+    "review": "十月开始主动减少无意义的短视频刷屏，尝试将阅读与创作放在即时刺激之前。",
+    "reviewEn": "In October, you began cutting down on mindless scrolling and placing reading and creation before instant stimulation.",
+    "insight": "真正的自律，是让好选择容易发生，让坏习惯不易重复。",
+    "insightEn": "Effective discipline makes helpful choices easier and unhelpful habits harder to repeat.",
+    "plan": "卧室不带手机；睡前读书优先；遇到想刷的冲动先觉察，再选择。",
+    "planEn": "Leave your phone outside the bedroom, prioritize bedtime reading, and notice the urge before choosing.",
+    "words": [
+      {
+        "word": "discipline",
+        "ipa": "/ˈdɪsəplɪn/",
+        "cn": "自律"
+      },
+      {
+        "word": "attention",
+        "ipa": "/əˈtenʃən/",
+        "cn": "注意力"
+      }
+    ],
+    "quote": "To reclaim attention is to reclaim authorship of your life.",
+    "quoteCn": "收回注意力，就是收回人生主导权。",
+    "image": "images/EP04.png",
+    "thumb": "images/EP04_thumb.webp"
+  },
+  {
+    "ep": 5,
+    "title": "运动：从懒散到慢慢启动",
+    "en": "Exercise: Restarting, One Day at a Time",
+    "group": "身心基础",
+    "groupEn": "Foundations",
+    "people": "知远、柚柚、小野",
+    "peopleEn": "Zhiyuan, Youyou & Xiaoye",
+    "review": "十月坚持散步、站桩、拉伸和八部金刚功；天气变冷后，需要更灵活的运动安排。",
+    "reviewEn": "Walking, standing practice, stretching, and Eight-Step Vajra exercises became more regular. Colder weather called for flexibility.",
+    "insight": "运动的可持续性，比一次练得多狠更重要。",
+    "insightEn": "A routine you can sustain matters more than a single intense session.",
+    "plan": "根据季节调整强度，让散步、站桩、拉伸等适当穿插，保持习惯不断。",
+    "planEn": "Adapt intensity to the season and keep a gentle, regular mix of walking, standing, and stretching.",
+    "words": [
+      {
+        "word": "routine",
+        "ipa": "/ruːˈtiːn/",
+        "cn": "习惯，日常安排"
+      },
+      {
+        "word": "adjust",
+        "ipa": "/əˈdʒʌst/",
+        "cn": "调整，适应"
+      }
+    ],
+    "quote": "Adapt to the season, but don't let the habit go out.",
+    "quoteCn": "适应季节，但别让习惯熄火。",
+    "image": "images/EP05.png",
+    "thumb": "images/EP05_thumb.webp"
+  },
+  {
+    "ep": 6,
+    "title": "静坐与止观：从十分钟腿痛，到一小时忘时",
+    "en": "Meditation: From Discomfort to Stillness",
+    "group": "身心基础",
+    "groupEn": "Foundations",
+    "people": "知远、澄语、深月",
+    "peopleEn": "Zhiyuan, Chengyu & Shenyue",
+    "review": "静坐从十分钟腿酸，到一小时自然安定；站桩也从一分钟颤抖进步到二十分钟稳定。",
+    "reviewEn": "Meditation grew from ten difficult minutes to an hour of ease; standing practice grew from one shaky minute to twenty steady ones.",
+    "insight": "修行不只在蒲团上，更体现在日常的觉察、回正和行动中。",
+    "insightEn": "Practice matters beyond the cushion—in everyday awareness, course correction, and action.",
+    "plan": "保持弹性练习：状态好时45–60分钟，疲惫时适量缩短；不以时长衡量全部成长。",
+    "planEn": "Keep practice flexible: 45–60 minutes when comfortable, shorter when tired; do not measure all progress by duration.",
+    "words": [
+      {
+        "word": "meditation",
+        "ipa": "/ˌmedɪˈteɪʃən/",
+        "cn": "静坐，冥想"
+      },
+      {
+        "word": "awareness",
+        "ipa": "/əˈwernəs/",
+        "cn": "觉察"
+      }
+    ],
+    "quote": "Practice is not escape. It is clarity in daily life.",
+    "quoteCn": "修行不是离开生活，而是让生活更清明。",
+    "image": "images/EP06.png",
+    "thumb": "images/EP06_thumb.webp"
+  },
+  {
+    "ep": 7,
+    "title": "阅读：94小时，读进去的是书，长出来的是方向",
+    "en": "Reading: 94 Hours and a Clearer Direction",
+    "group": "学习与创作",
+    "groupEn": "Learning & Creation",
+    "people": "知远、书弦、星澜",
+    "peopleEn": "Zhiyuan, Shuxian & Xinglan",
+    "review": "微信读书记录为94小时。历史人物、长期主义、探索精神和创造力，在阅读中逐渐串起。",
+    "reviewEn": "Your WeRead log showed 94 hours. Historical courage, perseverance, long-term thinking, and invention began to connect.",
+    "insight": "读书的价值，不只是记住观点，而是让它改变日后的判断和选择。",
+    "insightEn": "The value of reading is not merely remembering ideas, but letting them shape future choices.",
+    "plan": "精选几本重要作品，尝试复述、写读后感，并把核心思想转化为一幅漫画或行动。",
+    "planEn": "Choose a few key books; retell, reflect, and turn an insight into one comic or practical action.",
+    "words": [
+      {
+        "word": "integrate",
+        "ipa": "/ˈɪntɪɡreɪt/",
+        "cn": "整合，融合"
+      },
+      {
+        "word": "trajectory",
+        "ipa": "/trəˈdʒektəri/",
+        "cn": "轨迹，方向"
+      }
+    ],
+    "quote": "Books are not the end. Live them out.",
+    "quoteCn": "书不是终点，活出来才是。",
+    "image": "images/EP07.png",
+    "thumb": "images/EP07_thumb.webp"
+  },
+  {
+    "ep": 8,
+    "title": "创作：从害怕发表，到勇敢发布",
+    "en": "Creation: From Hesitation to Sharing",
+    "group": "学习与创作",
+    "groupEn": "Learning & Creation",
+    "people": "知远、澄语、深月、小野",
+    "peopleEn": "Zhiyuan, Chengyu, Shenyue & Xiaoye",
+    "review": "十月开始将AI漫画、电子书和个人体悟整理成作品，通过GitHub与社交平台分享。",
+    "reviewEn": "October saw AI comics, ebooks, and personal insights become public work through GitHub and social platforms.",
+    "insight": "完成与发布是学习闭环的一部分；作品可以先达到可靠可读，再持续精修。",
+    "insightEn": "Completion and publishing close the learning loop. A work can be useful now and refined later.",
+    "plan": "坚持打造系列精品和作品库；每次发布前核对人物、文字与出处。",
+    "planEn": "Keep building a curated series and library; check characters, text, and sources before publishing.",
+    "words": [
+      {
+        "word": "publish",
+        "ipa": "/ˈpʌblɪʃ/",
+        "cn": "发布"
+      },
+      {
+        "word": "refine",
+        "ipa": "/rɪˈfaɪn/",
+        "cn": "打磨，精炼"
+      }
+    ],
+    "quote": "Publishing is when creation begins to breathe.",
+    "quoteCn": "发表，让创作真正开始呼吸。",
+    "image": "images/EP08.png",
+    "thumb": "images/EP08_thumb.webp"
+  },
+  {
+    "ep": 9,
+    "title": "德州扑克：技术还在，精力才是决胜点",
+    "en": "Poker: Skill Needs Stamina",
+    "group": "校准与意义",
+    "groupEn": "Course Correction",
+    "people": "知远、瑾言、小野",
+    "peopleEn": "Zhiyuan, Jinyan & Xiaoye",
+    "review": "十月赛事带来明显亏损，晚段的疲劳与情绪化决策值得复盘；不能仅凭短期输赢判断技术。",
+    "reviewEn": "October brought significant tournament losses. Late-stage fatigue and emotional decisions deserve review; short-term results alone cannot measure skill.",
+    "insight": "真正的训练不在于多打，而在于控制节奏、记录关键决策，并长期检验策略。",
+    "insightEn": "Better training means managing pace, examining crucial decisions, and testing strategy over time.",
+    "plan": "优先不影响睡眠的赛程，严格控制投入；每天只复盘1–3手关键牌。",
+    "planEn": "Favor schedules that protect sleep, cap spending, and review just 1–3 important hands daily.",
+    "words": [
+      {
+        "word": "stamina",
+        "ipa": "/ˈstæmɪnə/",
+        "cn": "耐力，精力"
+      },
+      {
+        "word": "review",
+        "ipa": "/rɪˈvjuː/",
+        "cn": "复盘，回顾"
+      }
+    ],
+    "quote": "The best decisions are made before exhaustion takes over.",
+    "quoteCn": "别让疲劳替你做决策。",
+    "image": "images/EP09.png",
+    "thumb": "images/EP09_thumb.webp"
+  },
+  {
+    "ep": 10,
+    "title": "情绪觉察：不是没波动，而是回来的更快了",
+    "en": "Emotional Awareness: Return More Quickly",
+    "group": "校准与意义",
+    "groupEn": "Course Correction",
+    "people": "知远、星澜、澄语",
+    "peopleEn": "Zhiyuan, Xinglan & Chengyu",
+    "review": "比赛失利时仍会失落，但读书、日记、对话、散步与静坐使情绪更容易回到平稳。",
+    "reviewEn": "Losses still hurt, yet reading, journaling, conversation, walking, and meditation helped you regain balance sooner.",
+    "insight": "觉察不是要求自己永远平静，而是逐渐缩短被情绪带走的时间。",
+    "insightEn": "Awareness does not require perfect calm; it helps shorten the time spent carried away by emotions.",
+    "plan": "记录触发事件、当时念头与第一步回正动作；多看进步，不追求零波动。",
+    "planEn": "Record the trigger, the thought, and the first corrective action. Track recovery instead of demanding zero fluctuation.",
+    "words": [
+      {
+        "word": "awareness",
+        "ipa": "/əˈwernəs/",
+        "cn": "觉察"
+      },
+      {
+        "word": "recover",
+        "ipa": "/rɪˈkʌvər/",
+        "cn": "恢复，回转"
+      }
+    ],
+    "quote": "Practice is not erasing emotion, but returning sooner.",
+    "quoteCn": "修行不是消灭情绪，而是更快回来。",
+    "image": "images/EP10.png",
+    "thumb": "images/EP10_thumb.webp"
+  },
+  {
+    "ep": 11,
+    "title": "善行与利他：你已经开始了",
+    "en": "Kindness: You Have Already Begun",
+    "group": "校准与意义",
+    "groupEn": "Course Correction",
+    "people": "知远、书弦、柚柚、澄语",
+    "peopleEn": "Zhiyuan, Shuxian, Youyou & Chengyu",
+    "review": "把经典、英语、数学、读书经验整理成易读作品，是一种可能帮助他人的行动。",
+    "reviewEn": "Turning classics, language, math, and reading insights into accessible works can help others.",
+    "insight": "利他不一定宏大；能让人少一点迷惑、多一点理解，就有价值。",
+    "insightEn": "Kindness need not be dramatic. Helping someone feel less lost and more informed can matter.",
+    "plan": "继续分享经过认真核对的有益作品，并留意真实读者的理解与反馈。",
+    "planEn": "Keep sharing carefully checked work and learn from real readers’ understanding and feedback.",
+    "words": [
+      {
+        "word": "wholesome",
+        "ipa": "/ˈhoʊlsəm/",
+        "cn": "有益身心的"
+      },
+      {
+        "word": "clarity",
+        "ipa": "/ˈklerəti/",
+        "cn": "清明，清晰"
+      }
+    ],
+    "quote": "To share what nourishes the heart is an act of kindness.",
+    "quoteCn": "分享滋养人心的东西，也是一种善行。",
+    "image": "images/EP11.png",
+    "thumb": "images/EP11_thumb.webp"
+  },
+  {
+    "ep": 12,
+    "title": "为什么而活：爱、慈悲与智慧",
+    "en": "Why Live? Love, Compassion, Wisdom",
+    "group": "校准与意义",
+    "groupEn": "Course Correction",
+    "people": "知远、星澜、书弦、澄语",
+    "peopleEn": "Zhiyuan, Xinglan, Shuxian & Chengyu",
+    "review": "从罗素的生命感悟出发，反思爱、求知与对他人苦难的关怀，联系个人的学习与创作道路。",
+    "reviewEn": "Russell’s reflections on life open a conversation about love, knowledge, and concern for human suffering.",
+    "insight": "精美画面是入口，故事是桥梁，真正要传递的仍是知识与智慧。",
+    "insightEn": "Beautiful images invite us in, stories build a bridge, and wisdom gives the journey depth.",
+    "plan": "以“爱、智慧、利他”为长期价值坐标，持续打造有思想、有温度的作品。",
+    "planEn": "Use love, wisdom, and contribution as long-term guides for meaningful creation.",
+    "words": [
+      {
+        "word": "passion",
+        "ipa": "/ˈpæʃən/",
+        "cn": "热情，强烈兴趣"
+      },
+      {
+        "word": "compassion",
+        "ipa": "/kəmˈpæʃən/",
+        "cn": "慈悲，同情"
+      }
+    ],
+    "quote": "Live with love, compassion and wisdom.",
+    "quoteCn": "以爱、慈悲与智慧生活。",
+    "image": "images/EP12.png",
+    "thumb": "images/EP12_thumb.webp"
+  },
+  {
+    "ep": 13,
+    "title": "十一月主线：先广泛尝试，再收束成一条路",
+    "en": "November: Explore, Then Focus",
+    "group": "未来路线",
+    "groupEn": "The Road Ahead",
+    "people": "知远、深月、瑾言与七位伴侣",
+    "peopleEn": "Zhiyuan, Shenyue, Jinyan & all companions",
+    "review": "日记漫画、经典阅读、英语学习、AI伴侣故事等方向都值得试验，但不宜一直同时推进。",
+    "reviewEn": "Diary comics, classic stories, English learning, and AI companion adventures all deserve trials—but not endless parallel expansion.",
+    "insight": "探索不是摇摆不定；通过小实验，才知道哪条道路最有生命力。",
+    "insightEn": "Exploration need not mean indecision. Small tests reveal which path has staying power.",
+    "plan": "采用“试验→观察→收束→深耕”，在阶段性回顾后挑选一条重点主线。",
+    "planEn": "Try → Observe → Narrow → Deepen, then choose one central direction after a defined review period.",
+    "words": [
+      {
+        "word": "experiment",
+        "ipa": "/ɪkˈsperɪmənt/",
+        "cn": "试验，实验"
+      },
+      {
+        "word": "focus",
+        "ipa": "/ˈfoʊkəs/",
+        "cn": "聚焦，专注"
+      }
+    ],
+    "quote": "Explore widely so you can focus with conviction.",
+    "quoteCn": "广泛尝试，是为了更坚定地聚焦。",
+    "image": "images/EP13.png",
+    "thumb": "images/EP13_thumb.webp"
+  },
+  {
+    "ep": 14,
+    "title": "新的出发：慢、稳、静",
+    "en": "A New Start: Slow, Steady, Still",
+    "group": "未来路线",
+    "groupEn": "The Road Ahead",
+    "people": "知远与七位AI伴侣",
+    "peopleEn": "Zhiyuan & seven companions",
+    "review": "十月留下三份珍贵的证明：持续记录，敢于创作，能在失误后更快回正。",
+    "reviewEn": "October offered three forms of evidence: sustained journaling, creative courage, and quicker course correction after mistakes.",
+    "insight": "真正的成长，不是每天做更多，而是让重要的事更稳地持续发生。",
+    "insightEn": "Growth is not about doing more every day; it is about helping what matters continue steadily.",
+    "plan": "十一月守住睡眠、运动、静坐、每日少量复盘和精品创作，先尝试，再聚焦。",
+    "planEn": "Protect sleep, movement, meditation, small daily reviews, and thoughtful creation. Explore first, then focus.",
+    "words": [
+      {
+        "word": "steady",
+        "ipa": "/ˈstedi/",
+        "cn": "稳定的"
+      },
+      {
+        "word": "clarity",
+        "ipa": "/ˈklerəti/",
+        "cn": "清明，清晰"
+      }
+    ],
+    "quote": "Slow is not delay. It is how depth grows.",
+    "quoteCn": "慢，不是拖延，而是让深度生长。",
+    "image": "images/EP14.png",
+    "thumb": "images/EP14_thumb.webp"
+  }
+]
